@@ -1,10 +1,7 @@
 #!/bin/bash
 
-PERSON1=Modi #there should be no space before and after =
-PERSON2=Musk
+person1=Trump
+person2=musk
 
-echo "$PERSON1:: Hey $PERSON2, How are you?"
-echo "$PERSON2:: Hello $PERSON1, I am fine. How are you doing"
-echo "$PERSON1:: I am fine too. What's up?"
-echo "$PERSON2:: Nohting, just going to Mars now, will you come?"
-echo "$PERSON1:: Sorry, you carry on! I will come once you come back"
+echo "$person1: Hello $person2 how are you"
+echo "$person2: Hello $person1 how are you"
